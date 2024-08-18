@@ -1,4 +1,3 @@
 <?php
 
-echo "hello world resolve";
-
+echo "hello world stash resolve";
